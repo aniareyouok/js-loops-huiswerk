@@ -5,6 +5,7 @@
 // ==========================================
 
 const names = ["Henk", "Piet", "Fred", "Joop"];
+console.log(names);
 
 // Verwachtte uitkomsten:
 // Vóór het script zie je de originele waardes:
@@ -26,7 +27,6 @@ const numbers = [2, 4, 5, 29, 38];
 // console.log(numbers) geeft: [2, 4, 5, 29, 38];
 // Na jouw script zie je de aangepaste waardes:
 // console.log(numbers) geeft: [ 6, 12, 15, 87, 114 ];
-
 
 // ==========================================
 // Opdracht 3
